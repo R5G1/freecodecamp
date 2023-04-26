@@ -10,4 +10,7 @@
 // console.log(FCC, fact); 
 
 // Add Two Numbers with JavaScript
-const sum = 10 + 10;
+// const sum = 10 + 10;
+
+//Subtract One Number from Another with JavaScript
+const difference = 45 - 33;

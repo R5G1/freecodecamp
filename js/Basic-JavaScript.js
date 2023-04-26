@@ -32,4 +32,12 @@
 // myVar--;
 
 // Create Decimal Numbers with JavaScript
-var myDecimal = 2.8;
+// var myDecimal = 2.8;
+
+// Multiply Two Decimals with JavaScript
+const product = 2.0 * 2.5;
+
+
+
+
+

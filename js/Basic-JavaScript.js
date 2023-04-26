@@ -38,9 +38,9 @@
 // const product = 2.0 * 2.5;
 
 //Divide One Decimal by Another with JavaScript
-var quotient = 4.4 / 2.0;
+// var quotient = 4.4 / 2.0;
 
-
-
+// Finding a Remainder in JavaScript
+const remainder = 11%3;
 
 

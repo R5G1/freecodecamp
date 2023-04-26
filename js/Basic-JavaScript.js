@@ -22,7 +22,11 @@
 // const quotient = 66 / 33;
 
 // Increment a Number with JavaScript
-let myVar = 87;
+// let myVar = 87;
+// // Only change code below this line
+// myVar++;
 
+//Decrement a Number with JavaScript
+let myVar = 11;
 // Only change code below this line
-myVar++;
+myVar--;

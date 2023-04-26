@@ -27,6 +27,9 @@
 // myVar++;
 
 //Decrement a Number with JavaScript
-let myVar = 11;
-// Only change code below this line
-myVar--;
+// let myVar = 11;
+// // Only change code below this line
+// myVar--;
+
+// Create Decimal Numbers with JavaScript
+var myDecimal = 2.8;

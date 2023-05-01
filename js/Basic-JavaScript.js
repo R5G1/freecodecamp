@@ -78,11 +78,16 @@
 
 //JavaScript Algorithms and Data Structures
 // Setup
-let lastNameLength = 0;
+// let lastNameLength = 0;
+// const lastName = "Lovelace";
+// // Only change code below this line
+// lastNameLength = lastName.length;
+
+//JavaScript Algorithms and Data Structures
+let firstLetterOfLastName = "";
 const lastName = "Lovelace";
 // Only change code below this line
-lastNameLength = lastName.length;
-
+firstLetterOfLastName = lastName[0];
 
 
 

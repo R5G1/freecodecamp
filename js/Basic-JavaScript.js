@@ -62,10 +62,55 @@
 // c -= 1;
 
 // Compound Assignment With Augmented Multiplication
-let a = 5;
-let b = 12;
-let c = 4.6;
+// let a = 5;
+// let b = 12;
+// let c = 4.6;
+
 // Only change code below this line
-a *= 5;
-b *= 3;
-c *= 10;
+// a *= 5;
+// b *= 3;
+// c *= 10;
+
+//Appending Variables to Strings
+// const someAdjective = "difficult but rewarding!";
+// let myStr = "Learning to code is ";
+// myStr += someAdjective;
+
+//JavaScript Algorithms and Data Structures
+// Setup
+// let lastNameLength = 0;
+// const lastName = "Lovelace";
+// // Only change code below this line
+// lastNameLength = lastName.length;
+
+//JavaScript Algorithms and Data Structures
+// let firstLetterOfLastName = "";
+// const lastName = "Lovelace";
+// // Only change code below this line
+// firstLetterOfLastName = lastName[0];
+
+//JavaScript Algorithms and Data Structures
+// Setup
+// const lastName = "Lovelace";
+// // Only change code below this line
+// const lastLetterOfLastName = lastName[lastName.length - 1];
+
+//JavaScript Algorithms and Data Structures
+// // Setup
+// const myArray = [18, 64, 99];
+// myArray[0]=45;
+// // Only change code below this line
+
+//JavaScript Algorithms and Data Structures
+// const myArray = [
+//     [1, 2, 3],
+//     [4, 5, 6],
+//     [7, 8, 9],
+//     [[10, 11, 12], 13, 14],
+//   ];
+//   const myData = myArray[2][1];
+
+//JavaScript Algorithms and Data Structures
+  // Setup
+const myArray = [["John", 23], ["cat", 2]];
+const removedFromMyArray =myArray.pop()

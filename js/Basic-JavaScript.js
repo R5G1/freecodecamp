@@ -91,8 +91,12 @@
 
 //JavaScript Algorithms and Data Structures
 // Setup
-const lastName = "Lovelace";
+// const lastName = "Lovelace";
+// // Only change code below this line
+// const lastLetterOfLastName = lastName[lastName.length - 1];
 
+//JavaScript Algorithms and Data Structures
+// Setup
+const myArray = [18, 64, 99];
+myArray[0]=45;
 // Only change code below this line
-const lastLetterOfLastName = lastName[lastName.length - 1];
-

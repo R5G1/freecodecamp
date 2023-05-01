@@ -84,11 +84,15 @@
 // lastNameLength = lastName.length;
 
 //JavaScript Algorithms and Data Structures
-let firstLetterOfLastName = "";
+// let firstLetterOfLastName = "";
+// const lastName = "Lovelace";
+// // Only change code below this line
+// firstLetterOfLastName = lastName[0];
+
+//JavaScript Algorithms and Data Structures
+// Setup
 const lastName = "Lovelace";
+
 // Only change code below this line
-firstLetterOfLastName = lastName[0];
-
-
-
+const lastLetterOfLastName = lastName[lastName.length - 1];
 

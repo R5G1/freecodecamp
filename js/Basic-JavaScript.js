@@ -72,11 +72,16 @@
 // c *= 10;
 
 //Appending Variables to Strings
-const someAdjective = "difficult but rewarding!";
-let myStr = "Learning to code is ";
-myStr += someAdjective;
+// const someAdjective = "difficult but rewarding!";
+// let myStr = "Learning to code is ";
+// myStr += someAdjective;
 
-
+//JavaScript Algorithms and Data Structures
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+// Only change code below this line
+lastNameLength = lastName.length;
 
 
 

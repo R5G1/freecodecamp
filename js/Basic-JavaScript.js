@@ -62,10 +62,23 @@
 // c -= 1;
 
 // Compound Assignment With Augmented Multiplication
-let a = 5;
-let b = 12;
-let c = 4.6;
+// let a = 5;
+// let b = 12;
+// let c = 4.6;
+
 // Only change code below this line
-a *= 5;
-b *= 3;
-c *= 10;
+// a *= 5;
+// b *= 3;
+// c *= 10;
+
+//Appending Variables to Strings
+const someAdjective = "difficult but rewarding!";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
+
+
+
+
+
+
+
